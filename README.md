@@ -16,5 +16,14 @@ Quit without saving the file.
 ###### wq!
 Quit after saving the changes.
 
+###### ctrl+d
+Move forward 1/2 screen.
+
+###### ctrl+f
+Move forward full screen.
+
+###### ctrl+u
+Move backward half screen.
+
 
 **Note**: _These commands can be fired in command mode only. press _escape_ key to go into command mode._
