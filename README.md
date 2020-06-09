@@ -17,7 +17,7 @@ Quit without saving the file.
 Quit after saving the changes.
 
 ###### ctrl+d
-Move forward 1/2 screen.
+Move forward half screen.
 
 ###### ctrl+f
 Move forward full screen.
@@ -25,5 +25,16 @@ Move forward full screen.
 ###### ctrl+u
 Move backward half screen.
 
+###### ctrl+b
+Move backward full screen.
+
+###### ctrl+e
+Move screen up one line.
+
+###### ctrl+y
+Move screen down one line.
+
+###### ctrl+I
+Redraws screen.
 
 **Note**: _These commands can be fired in command mode only. press _escape_ key to go into command mode._
