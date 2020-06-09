@@ -16,6 +16,9 @@ Quit without saving the file.
 ###### wq!
 Quit after saving the changes.
 
+###### :s/<search_string>
+Searching a string in the file.
+
 ###### ctrl+d
 Move forward half screen.
 
