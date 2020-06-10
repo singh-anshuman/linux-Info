@@ -1,5 +1,4 @@
 # Linux Information
--------------------
 
 ## Important Linux Commands
 
