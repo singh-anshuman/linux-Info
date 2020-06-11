@@ -11,6 +11,12 @@ Prints the last N number of lines of a given file. -f option continously prints 
 ###### sudo su -
 Switches to root user and navigates to the root user's home directory.
 
+###### ls -ltr
+Listing all the files and directories in current directory in reverse cronological order.
+
+###### ls -a
+Listing all the files and directories including hidden files and directories.
+
 ## VI Editor Keyboard Shortcuts
 ###### q!
 Quit without saving the file.
