@@ -8,6 +8,9 @@ Lists information about all or the specified block devices. The lsblk command re
 ###### tail -f -n N <FILE_NAME>
 Prints the last N number of lines of a given file. -f option continously prints last N files of the file. This option is frequently used to monitor live logs for an application.
 
+###### sudo su -
+Switches to root user and navigates to the root user's home directory.
+
 ## VI Editor Keyboard Shortcuts
 ###### q!
 Quit without saving the file.
