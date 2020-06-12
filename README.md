@@ -17,6 +17,9 @@ Listing all the files and directories in current directory in reverse cronologic
 ###### ls -a
 Listing all the files and directories including hidden files and directories.
 
+###### tar -zcvf file.tar.gz /path/to/dir/
+For creating a tar file for the directory
+
 ## VI Editor Keyboard Shortcuts
 ###### q!
 Quit without saving the file.
