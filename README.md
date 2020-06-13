@@ -23,6 +23,9 @@ For creating a tar file for the directory
 ###### tar -C <FOLDER_PATH> -zxvf yourfile.tar.gz
 For untarring a tar.gz file to the specified directory.
 
+###### tar -C <FOLDER_PATH> -xvf yourfile.tar
+Command for untarring a tar file to the specified directory
+
 ## VI Editor Keyboard Shortcuts
 ###### q!
 Quit without saving the file.
