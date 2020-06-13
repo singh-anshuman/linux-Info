@@ -20,6 +20,9 @@ Listing all the files and directories including hidden files and directories.
 ###### tar -zcvf file.tar.gz /path/to/dir/
 For creating a tar file for the directory
 
+###### tar -C <FOLDER_PATH> -zxvf yourfile.tar.gz
+For untarring a tar.gz file to the specified directory.
+
 ## VI Editor Keyboard Shortcuts
 ###### q!
 Quit without saving the file.
