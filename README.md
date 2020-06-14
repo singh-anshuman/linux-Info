@@ -26,7 +26,7 @@ For untarring a tar.gz file to the specified directory.
 ###### tar -C <FOLDER_PATH> -xvf yourfile.tar
 Command for untarring a tar file to the specified directory
 
-###### which <EXECUTABLE>
+###### which <EXECUTABLE_UTILITY>
 Command that gives you the path of the executable specified
 
 ## VI Editor Keyboard Shortcuts
