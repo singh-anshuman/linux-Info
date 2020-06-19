@@ -5,8 +5,8 @@
 ###### lsblk
 Lists information about all or the specified block devices. The lsblk command reads the sysfs filesystem to gather information.
 
-###### df
-Checking disk space of the linux machine.
+###### df -h
+Checking disk usage in a human readable manner.
 
 ###### tail -f -n N <FILE_NAME>
 Prints the last N number of lines of a given file. -f option continously prints last N files of the file. This option is frequently used to monitor live logs for an application.
