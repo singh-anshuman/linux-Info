@@ -2,11 +2,18 @@
 
 ## Important Linux Commands
 
+### File System Based
+
 ###### lsblk
 Lists information about all or the specified block devices. The lsblk command reads the sysfs filesystem to gather information.
 
 ###### df -h
 Checking disk usage in a human readable manner.
+
+### File Management
+
+###### more <FILE_NAME>
+Used for viewing the text file in terminal.
 
 ###### tail -f -n N <FILE_NAME>
 Prints the last N number of lines of a given file. -f option continously prints last N files of the file. This option is frequently used to monitor live logs for an application.
