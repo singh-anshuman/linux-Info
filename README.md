@@ -46,6 +46,12 @@ Quit without saving the file.
 ###### wq!
 Quit after saving the changes.
 
+###### w fileName
+Write to file called fileName (save as).
+
+###### w! fileName
+Overwrite to file called fileName (save as forcefully).
+
 ###### :s/<search_string>
 Searching a string in the file.
 
