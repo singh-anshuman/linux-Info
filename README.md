@@ -1,6 +1,6 @@
-# Linux Information
+# Linux Guide
 
-## Important Linux Commands
+## Important Commands
 
 ### File System Based
 
@@ -18,26 +18,28 @@ Used for viewing the text file in terminal.
 ###### tail -f -n N <FILE_NAME>
 Prints the last N number of lines of a given file. -f option continously prints last N files of the file. This option is frequently used to monitor live logs for an application.
 
-###### sudo su -
-Switches to root user and navigates to the root user's home directory.
+###### ls -a
+Lists all the files and directories including hidden files and directories.
 
 ###### ls -ltr
-Listing all the files and directories in current directory in reverse cronological order.
-
-###### ls -a
-Listing all the files and directories including hidden files and directories.
+Lists all the files and directories on the current path in reverse cronological order of creation.
 
 ###### tar -zcvf file.tar.gz /path/to/dir/
-For creating a tar file for the directory
+Creates a tar file for the directory.
 
 ###### tar -C <FOLDER_PATH> -zxvf yourfile.tar.gz
-For untarring a tar.gz file to the specified directory.
+Untars a tar.gz file to the specified directory.
 
 ###### tar -C <FOLDER_PATH> -xvf yourfile.tar
-Command for untarring a tar file to the specified directory
+Untars a tar file to the specified directory.
 
 ###### which <EXECUTABLE_UTILITY>
-Command that gives you the path of the executable specified
+Returns the path of the executable.
+
+### User Management
+
+###### sudo su -
+Switches to root user and navigates to the root user's home directory.
 
 ## VI Editor Keyboard Shortcuts
 ###### q!
