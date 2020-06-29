@@ -15,7 +15,8 @@ Checking disk usage in a human readable manner.
 ###### cat > <FILE_NAME>
 Creates a new file with the given file name.
 
-###### cat fil
+###### cat <FILE_NAME_1> <FILE_NAME_2> > <FILE_NAME_3>
+Contatenates the contents of 2 files and creates the 3rd file.
 
 ###### more <FILE_NAME>
 Used for viewing the text file in terminal.
