@@ -12,6 +12,11 @@ Checking disk usage in a human readable manner.
 
 ### File Management
 
+###### cat > <FILE_NAME>
+Creates a new file with the given file name.
+
+###### cat fil
+
 ###### more <FILE_NAME>
 Used for viewing the text file in terminal.
 
