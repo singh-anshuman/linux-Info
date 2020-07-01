@@ -42,6 +42,9 @@ Untars a tar file to the specified directory.
 ###### which <EXECUTABLE_UTILITY>
 Returns the path of the executable.
 
+###### grep -A 3 -i "example" demo_text
+Prints the matched line, along with the 3 lines after it.
+
 ### User Management
 
 ###### sudo su -
