@@ -87,4 +87,7 @@ Move screen down one line.
 ###### ctrl+I
 Redraws screen.
 
+###### lscpu
+Returns number of physical CPUs in the system.
+
 **Note**: _These commands can be fired in command mode only. press _escape_ key to go into command mode._
